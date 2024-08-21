@@ -1,0 +1,24 @@
+# Drowning personnel
+path: D:/my yolo project/ultralytics-main/ultralytics-main/datasets/my_dataset  # dataset root dir
+train: train/images # train images (relative to 'path') 128 images
+val:  valid/images # val images (relative to 'path') 128 images test/images
+test:  test/images # test images (optional) test/images
+
+# Classes
+names:
+  0: Drowning personnel
+ 
+
+#train: ../train/images
+#val: ../valid/images
+#test: ../test/images
+
+#nc: 1
+#names: ['ahogandose']
+
+#roboflow:
+  #workspace: mecatronica-jdiji
+  #project: ahogandose
+  #version: 3
+  #license: CC BY 4.0
+  #url: https://universe.roboflow.com/mecatronica-jdiji/ahogandose/dataset/3
