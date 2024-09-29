@@ -1,8 +1,3 @@
-# Drowning patient dataset
-I have collected a dataset on drowning patients at sea and re annotated it
-
-# GEF-YOLO
- GEF-YOLO
 # Description
 we propose a novel hardware-friendly approach utilizing YOLOv8n, specifically designed for  unmanned devices to detect drowning patients at sea.
 # **Experimental** **setup**
